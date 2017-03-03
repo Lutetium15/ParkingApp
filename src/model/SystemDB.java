@@ -28,9 +28,6 @@ public class SystemDB {
     
     /** List of parking lots. */
     private List<ParkingLot> lotList;
-    
-    /** List of parking spaces. */
-    private List<ParkingSpace> parkingSpaceList;
 
     /**
      * Creates a sql connection to MySQL using the properties for
